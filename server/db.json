@@ -1,0 +1,32 @@
+{
+  "gamers": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "username": "Juancho",
+      "email": "juan@gmail.com",
+      "phoneNumber": 951753456
+    },
+    {
+      "id": 2,
+      "name": "Luis",
+      "username": "Lucho",
+      "email": "luis@gmail.com",
+      "phoneNumber": 987654321
+    },
+    {
+      "id": 3,
+      "name": "Roberto",
+      "username": "Teto",
+      "email": "roberto@gmail.com",
+      "phoneNumber": 963852741
+    },
+    {
+      "id": 4,
+      "name": "José",
+      "username": "Pepe",
+      "email": "jose@gmail.com",
+      "phoneNumber": 987321654
+    }
+  ]
+}
